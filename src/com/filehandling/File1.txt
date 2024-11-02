@@ -1,0 +1,6 @@
+5. Resource Management (try-with-resources):
+Create a program that reads data from a file using the BufferedReader class. 
+
+Use the try-with-resources statement to ensure that the BufferedReader is 
+properly closed, even if an exception occurs during the file reading process.
+ Handle any exceptions that may occur during file reading.

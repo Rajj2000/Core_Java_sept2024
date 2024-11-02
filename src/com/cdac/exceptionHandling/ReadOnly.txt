@@ -1,0 +1,5 @@
+Exception handling is a programming technique that allows a program 
+to respond to unexpected conditions without crashing. 
+  
+It's used to handle exceptional events, or exceptions, that can occur 
+during a program's execution. 
