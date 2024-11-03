@@ -1,0 +1,4 @@
+The Thread.sleep(100) introduces a small delay, which makes it easier to observe 
+the print statements and see if threads with higher priority 
+
+(t1 with priority 10) seem to execute more frequently than others.
